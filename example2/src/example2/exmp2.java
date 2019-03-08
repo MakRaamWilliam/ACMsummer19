@@ -19,12 +19,12 @@ public class exmp2 {
 		Day t = Day.valueOf("MON");
 		String s = getString();
 		
-   /*	 Fruits fru;
+   	 Fruits fru;
 		 Fruits app = new Fruits();
 		 fru = app;
 		 app.name = "apple";
 		 System.out.println(fru.name);
-		 */
+		
 		
 	/*	readfile r = new readfile(); 
 		String cap = "Apple"; cap= cap.toLowerCase();
